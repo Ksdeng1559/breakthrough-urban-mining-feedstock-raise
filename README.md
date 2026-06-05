@@ -17,7 +17,7 @@ Build a repeatable system to:
 2. Secure LOIs and supply agreements.
 3. Use feedstock proof to strengthen investor diligence.
 4. Raise $5M in working capital and feedstock acquisition capital.
-5. Scale Urban Mining and IMG processing capacity.
+5. Scale Urban Mining processing capacity and commercial operations.
 
 ## Key Tracks
 
@@ -31,6 +31,10 @@ Build a repeatable system to:
 ## Operating Principle
 
 Feedstock is the ore body of urban mining.
+
+## Partner Positioning Rule
+
+Do not reference IMG or IMG Gold Recovery as an operating partner in this project. All current materials should refer to Urban Mining, Breakthrough Management, the recovery operation, the processing system, or future approved processing partners only.
 
 ## Compliance Note
 
