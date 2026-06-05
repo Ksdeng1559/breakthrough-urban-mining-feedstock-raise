@@ -4,7 +4,9 @@
 
 This document evaluates the probability of achieving the main goals of the Breakthrough Urban Mining Feedstock Raise strategy.
 
-The assessment is based on the current 180-day plan, available GTM infrastructure, governance model, feedstock-first positioning, grant strategy, digital fund collateral concept, and video-driven capital formation system.
+The full $5M raise is targeted for completion over a 12-month period.
+
+The 180-day execution plan should be treated as the first-half operating checkpoint, not the final deadline for completing the full raise.
 
 This is a planning estimate, not a guarantee.
 
@@ -12,33 +14,114 @@ This is a planning estimate, not a guarantee.
 
 # Executive Assessment
 
-## Overall Probability of Meaningful Success
+## Overall Probability of Meaningful 180-Day Success
 
-**Estimated probability: 60% to 70%**
+**Estimated probability: 65% to 75%**
 
-Meaningful success is defined as achieving several of the following within 180 days:
+Meaningful 180-day success is defined as achieving several of the following:
 
 - credible feedstock supplier conversations
 - 3 to 10 feedstock LOIs or advanced supply discussions
 - 20 to 40 qualified investor conversations
-- $500K to $1.5M soft-circled or committed capital
+- $500K to $1.5M soft-circled, committed, or funded capital
 - a grant-ready NSF / SBIR application pathway
-- a working digital investor collateral system
-- a repeatable GTM process that can continue beyond 180 days
+- a working digital investor collateral process
+- a repeatable GTM process that can continue into the second 180 days
+
+## Probability of Full $5M Raise Within 12 Months
+
+**Estimated probability: 55% to 70%**
+
+A 12-month raise timeline is materially more realistic than a 180-day full-close target.
+
+The probability improves if:
+
+- feedstock LOIs are secured in the first 90 to 180 days
+- a strategic investor or anchor family office is identified
+- investor-facing materials are counsel-reviewed early
+- the financial model is clear and credible
+- the video-driven outreach system creates measurable engagement
+- digital fund collateral reduces onboarding friction
 
 ## Probability of Full $5M Raise Within 180 Days
 
 **Estimated probability: 25% to 40%**
 
-A full $5M raise within 180 days is possible but aggressive, especially if the current process is early-stage, relationship-driven, and dependent on feedstock proof.
+This remains an upside case, not the base case.
 
-The probability improves materially if:
+The first 180 days should be used to build proof, momentum, and investor confidence.
 
-- signed feedstock LOIs are secured quickly
-- a strategic investor participates
-- family office referrals are activated
-- the fund structure and digital investor process are counsel-approved
-- a credible CFO or financial advisor supports diligence
+---
+
+# Recommended 12-Month Raise Architecture
+
+## Months 1-3: Foundation and Proof Creation
+
+Primary objectives:
+
+- build target account lists
+- launch supplier outreach
+- secure initial supplier conversations
+- produce first video assets
+- prepare investor materials
+- begin grant readiness work
+
+Target outcome:
+
+- 1 to 3 LOI discussions
+- 10 to 20 supplier calls
+- 10 to 20 investor conversations
+- early investor interest
+
+## Months 4-6: First Close and Validation
+
+Primary objectives:
+
+- convert supplier conversations into LOIs
+- build investor data room
+- complete Day 180 review
+- secure first-close or soft-circle capital
+- evaluate Avestor / digital fund infrastructure
+
+Target outcome:
+
+- 3 to 10 feedstock LOIs or advanced discussions
+- $500K to $1.5M soft-circled, committed, or funded
+- grant pathway established
+- digital fund workflow mapped
+
+## Months 7-9: Scale and Anchor Investor Push
+
+Primary objectives:
+
+- focus on highest-performing feedstock segment
+- pursue strategic investors
+- activate family office referrals
+- use feedstock proof in investor follow-up
+- expand video and Vidyard campaigns
+
+Target outcome:
+
+- $1.5M to $3.5M total committed or funded
+- 1 anchor investor or strategic investor identified
+- stronger supplier proof package
+
+## Months 10-12: Close the Full Raise
+
+Primary objectives:
+
+- close remaining capital gap
+- convert soft-circle commitments
+- use digital collateral and data room to support diligence
+- update investors with feedstock and grant progress
+- prepare next capital strategy
+
+Target outcome:
+
+- $5M full raise completed or near-complete
+- strategic partner pipeline active
+- grant / R&D pathway advancing
+- next-phase growth strategy ready
 
 ---
 
@@ -46,259 +129,83 @@ The probability improves materially if:
 
 ## 1. Build a Repeatable GTM Operating System
 
-### Goal
-
-Create a structured repository, messaging system, outreach process, CRM pipeline, grant strategy, video stack, and review cadence.
-
 ### Probability
 
 **85% to 95%**
 
-### Reason
-
-This is mostly within the control of the team. The repository already contains core strategy, governance, grant, video, and fundraise-resource documents.
-
-### Key Risk
-
-The main risk is not strategy creation. The main risk is execution discipline.
-
-### Success Conditions
-
-- one accountable GTM owner
-- weekly execution cadence
-- CRM or RIOS workspace active
-- target account master list created
-- video assets produced
-
----
+This is mostly within the team's control. The repository already contains the core strategy, governance, grant, video, digital fund, and fundraise-resource documents.
 
 ## 2. Secure Feedstock Conversations
-
-### Goal
-
-Generate conversations with data centers, ITAD firms, telecom operators, institutions, recyclers, and public-sector e-waste sources.
 
 ### Probability
 
 **65% to 80%**
 
-### Reason
+The feedstock thesis is strong because it is commercially relevant to organizations already managing electronics disposal, server decommissioning, and IT asset lifecycle workflows.
 
-The feedstock thesis is strong because it is commercially relevant to organizations that already manage electronics disposal, server decommissioning, and IT asset lifecycle workflows.
-
-### Key Risk
-
-Suppliers may already have downstream recycling relationships or may be unwilling to change without clear economics, compliance assurances, and proof of processing capacity.
-
-### Success Conditions
-
-- strong supplier one-pager
-- clear material intake criteria
-- credible downstream recovery explanation
-- simple call-to-action
-- targeted outreach to ITAD and recyclers first
-
----
-
-## 3. Secure Feedstock LOIs or Advanced Supply Discussions
-
-### Goal
-
-Secure 3 to 10 LOIs or advanced supply discussions within 180 days.
+## 3. Secure Feedstock LOIs or Advanced Supply Discussions Within 180 Days
 
 ### Probability
 
 **45% to 65%**
 
-### Reason
+LOIs are achievable if the team targets smaller and mid-sized ITAD providers, recyclers, and institutional surplus programs first.
 
-LOIs are achievable if the team targets smaller and mid-sized ITAD providers, recyclers, and institutional surplus programs first. Large data centers and telecom companies may have slower procurement cycles.
-
-### Key Risk
-
-LOIs require trust, economics, logistics clarity, and processing credibility. Without a clear commercial offer, suppliers may engage in conversation but delay formal commitment.
-
-### Success Conditions
-
-- LOI template ready
-- clear pricing or evaluation method
-- logistics plan
-- material categories defined
-- Gilbert Jones engaged in supplier qualification
-- early wins from smaller suppliers before targeting large enterprises
-
----
-
-## 4. Raise $500K to $1.5M in First-Close or Soft-Circled Capital
-
-### Goal
-
-Secure early capital interest within 180 days.
+## 4. Raise $500K to $1.5M Within First 180 Days
 
 ### Probability
 
 **45% to 60%**
 
-### Reason
+A smaller first close or soft-circle is realistic if the investor story is supported by credible feedstock traction and the investor process is organized.
 
-A smaller first close is realistic if the investor story is supported by credible feedstock traction and the investor process is organized.
-
-### Key Risk
-
-Investors may wait for feedstock proof, operating proof, or clearer financial modeling before committing.
-
-### Success Conditions
-
-- investor one-pager finalized
-- data room organized
-- feedstock LOIs or strong supplier pipeline
-- Andrew Ferguson leads investor credibility
-- Dennis Eng runs GTM and follow-up
-- financial model reviewed by CFO or advisor
-- securities counsel approves materials
-
----
-
-## 5. Raise Full $5M Within 180 Days
-
-### Goal
-
-Close the full $5M feedstock acquisition raise.
-
-### Probability
-
-**25% to 40%**
-
-### Reason
-
-Full close is possible if one or two strategic investors participate or if a family office anchor commits. Without an anchor, raising $5M from many smaller investors will likely take longer.
-
-### Key Risk
-
-The project may need more proof before larger investors commit.
-
-### Success Conditions
-
-- anchor investor identified
-- strategic investor track prioritized
-- feedstock LOIs signed
-- financial model clear
-- digital investor process active
-- use of funds highly specific
-- legal structure fully ready
-
----
-
-## 6. Secure Non-Dilutive Grant Pathway
-
-### Goal
-
-Develop a viable NSF / SBIR or related grant pathway for AI and robotics-enabled e-waste recovery.
+## 5. Raise Full $5M Within 12 Months
 
 ### Probability
 
 **55% to 70%**
 
-### Reason
+A 12-month timeline allows enough time for supplier proof, investor diligence, digital collateral, strategic partner outreach, and follow-up maturity.
 
-The AI/robotics retrofit concept is a strong grant narrative because it aligns with circular economy, automation, recycling modernization, and facility retrofit innovation.
-
-### Key Risk
-
-Grant success requires a credible technical team, clear R&D novelty, pilot facility partner, commercialization plan, and strong application timing.
-
-### Success Conditions
-
-- technical partner identified
-- pilot facility partner identified
-- NSF Project Pitch refined
-- customer discovery completed
-- letters of support secured
-- R&D concept framed as innovation, not ordinary recycling
-
----
-
-## 7. Obtain SBIR / Grant Funding Within 180 Days
-
-### Goal
-
-Actually receive non-dilutive grant funding within 180 days.
-
-### Probability
-
-**10% to 25%**
-
-### Reason
-
-The pathway can be established within 180 days, but grant award timing usually takes longer. A realistic 180-day goal is submission readiness or invitation to full proposal, not necessarily receipt of funds.
-
-### Key Risk
-
-Agency deadlines, review cycles, technical partner readiness, and proposal timing.
-
-### Success Conditions
-
-- immediate NSF Project Pitch work
-- early technical collaborator involvement
-- pilot facility support letter
-- grant calendar tracked
-- proposal owner assigned
-
----
-
-## 8. Deploy Digital Fund Collateral Layer
-
-### Goal
-
-Evaluate Avestor or similar digital fund infrastructure and map paper-based process into digital investor journey.
-
-### Probability
-
-**50% to 70%**
-
-### Reason
-
-This is achievable if treated as a workflow evaluation and investor experience design project rather than a full custom platform build.
-
-### Key Risk
-
-Legal compatibility, platform cost, integration limitations, and approval from securities counsel.
-
-### Success Conditions
-
-- Avestor evaluation call completed
-- counsel review completed
-- current paper process mapped
-- gated materials defined
-- data room requirements finalized
-
----
-
-## 9. Build Video-Driven Outreach System
-
-### Goal
-
-Use Pictory, Vidyard, and Loom to educate prospects, track intent, and trigger follow-up.
+## 6. Raise Full $5M Within 12 Months With Anchor Investor and Feedstock Proof
 
 ### Probability
 
 **70% to 85%**
 
-### Reason
+If the team secures a credible anchor investor, several feedstock LOIs, and a clear financial model, the raise becomes much more achievable.
 
-This is practical and highly controllable. The tools already exist and the messaging has been defined.
+## 7. Establish Non-Dilutive Grant Pathway
 
-### Key Risk
+### Probability
 
-Videos may become too promotional, too long, or not integrated into CRM/RIOS follow-up.
+**55% to 70%**
 
-### Success Conditions
+The AI/robotics retrofit concept aligns with circular economy, automation, recycling modernization, and facility retrofit innovation.
 
-- first Pictory investor video produced
-- Vidyard tracking configured
-- Loom templates used for high-intent prospects
-- compliance review for investor-facing scripts
-- video engagement fields added to CRM/RIOS
+## 8. Receive Grant Funding Within 12 Months
+
+### Probability
+
+**25% to 40%**
+
+Grant funding within 12 months is possible but depends on application timing, technical partner readiness, pilot facility support, and agency review cycles.
+
+## 9. Deploy Digital Fund Collateral Layer
+
+### Probability
+
+**50% to 70%**
+
+This is achievable if treated as a workflow evaluation and investor experience design project rather than a full custom platform build.
+
+## 10. Build Video-Driven Outreach System
+
+### Probability
+
+**70% to 85%**
+
+This is practical and highly controllable if Pictory, Vidyard, Loom, and RIOS are integrated into the outreach workflow.
 
 ---
 
@@ -308,11 +215,13 @@ Videos may become too promotional, too long, or not integrated into CRM/RIOS fol
 |---|---:|---|
 | Build GTM operating system | 85% - 95% | High |
 | Secure supplier conversations | 65% - 80% | Medium-High |
-| Secure feedstock LOIs / advanced discussions | 45% - 65% | Medium |
-| Raise $500K - $1.5M first close / soft-circle | 45% - 60% | Medium |
+| Secure feedstock LOIs / advanced discussions in 180 days | 45% - 65% | Medium |
+| Raise $500K - $1.5M in first 180 days | 45% - 60% | Medium |
 | Raise full $5M within 180 days | 25% - 40% | Medium-Low |
+| Raise full $5M within 12 months | 55% - 70% | Medium-High |
+| Raise full $5M within 12 months with anchor investor + feedstock proof | 70% - 85% | High |
 | Establish grant pathway | 55% - 70% | Medium |
-| Receive grant funding within 180 days | 10% - 25% | Low |
+| Receive grant funding within 12 months | 25% - 40% | Medium-Low |
 | Deploy digital fund collateral layer | 50% - 70% | Medium |
 | Build video-driven outreach system | 70% - 85% | Medium-High |
 
@@ -328,7 +237,7 @@ Supplier LOIs or advanced discussions materially increase capital formation prob
 
 ## 2. Anchor Investor or Strategic Investor
 
-A single credible anchor investor could move the full raise probability from 25-40% to 50-65%.
+A single credible anchor investor could move the 12-month full raise probability from 55-70% to 70-85%.
 
 ## 3. Clear Financial Model
 
@@ -393,12 +302,6 @@ Investor videos, data room materials, digital fund collateral, and offering comm
 7. Schedule Avestor evaluation call.
 8. Identify grant technical partner.
 
-Expected impact:
-
-- improves supplier LOI probability
-- improves investor confidence
-- reduces uncertainty around digital fund platform
-
 ## Days 31-90
 
 1. Secure 10 to 20 supplier calls.
@@ -408,26 +311,23 @@ Expected impact:
 5. Submit or prepare NSF Project Pitch.
 6. Complete Day 90 review.
 
-Expected impact:
-
-- improves first-close probability
-- tests market response
-- identifies best segments
-
 ## Days 91-180
 
 1. Focus on the highest-performing supplier segment.
 2. Secure 3 to 10 LOIs or advanced commercial discussions.
 3. Convert soft investor interest into commitments.
 4. Use digital collateral and data room for diligence.
-5. Push toward $1M to $3M funded or committed.
-6. Reassess full $5M timeline at Day 180.
+5. Push toward $500K to $1.5M funded or committed.
+6. Prepare second-half capital close plan.
 
-Expected impact:
+## Months 7-12
 
-- validates the operating model
-- supports larger capital raise
-- creates proof for grants and strategic partners
+1. Use feedstock proof to pursue larger investors.
+2. Prioritize strategic investor or anchor family office.
+3. Continue supplier LOI expansion.
+4. Use digital fund collateral to reduce onboarding friction.
+5. Use grant progress as credibility layer.
+6. Close remaining capital gap toward $5M.
 
 ---
 
@@ -435,9 +335,9 @@ Expected impact:
 
 The overall strategy has a strong chance of creating meaningful traction within 180 days.
 
-The full $5M raise within 180 days is possible but should be treated as an upside case, not the base case.
+The full $5M raise should be assessed over a 12-month period, not a 180-day period.
 
-The base case should be:
+Base case for first 180 days:
 
 - credible supplier pipeline
 - several LOIs or advanced supply discussions
@@ -445,6 +345,11 @@ The base case should be:
 - grant pathway established
 - digital investor collateral process evaluated
 - video-driven GTM system operational
+
+Base case for 12 months:
+
+- full $5M raise has a realistic probability of 55% to 70%
+- with anchor investor and feedstock proof, probability improves to 70% to 85%
 
 The fastest way to improve the success rate is to prioritize feedstock proof before broad investor solicitation.
 
