@@ -6,7 +6,7 @@ This repository is the GTM operating system for Breakthrough Management's $5M Ur
 
 The immediate purpose of the raise is to secure high-value printed circuit board (PCB), retired server, telecom, and enterprise electronics feedstock for precious metals recovery.
 
-The broader purpose is to build a repeatable feedstock acquisition, investor outreach, grant funding, and strategic partnership engine for the Urban Mining platform.
+The broader purpose is to build a repeatable feedstock acquisition, investor outreach, grant funding, digital fund collateral, video-driven follow-up, and strategic partnership engine for the Urban Mining platform.
 
 ---
 
@@ -55,6 +55,8 @@ Breakthrough Management is raising $5M to secure high-value PCB and retired serv
 - Relationship intelligence project
 - Circular economy infrastructure initiative
 - AI and robotics R&D opportunity
+- Digital fund collateral strategy
+- Video-driven investor and supplier education system
 
 ### What This Is Not
 
@@ -101,6 +103,8 @@ Responsibilities:
 - CRM architecture
 - data room coordination
 - campaign reporting
+- video-driven outreach systems
+- digital fund collateral strategy
 
 ---
 
@@ -138,6 +142,7 @@ Purpose:
 - review feedstock LOIs
 - assess investor engagement
 - review data room activity
+- assess video engagement signals
 - decide whether to scale, refine, or reposition
 
 ### Day 180 Review
@@ -147,6 +152,8 @@ Purpose:
 - evaluate capital raised
 - evaluate feedstock secured
 - review strategic partnerships
+- review grant strategy progress
+- review digital fund platform readiness
 - determine next 180-day plan
 - decide whether to expand toward the full $5M raise, strategic partner capital, grants, or technology platform development
 
@@ -198,6 +205,16 @@ Purpose:
 
 - scale the AI and robotics retrofit platform if R&D validates
 
+### 5. Digital Fund Infrastructure
+
+Purpose:
+
+- modernize investor onboarding
+- organize digital collateral
+- support data room access
+- track investor engagement
+- improve reporting and repeat fundraising
+
 ---
 
 ## GTM Engineering Model
@@ -209,6 +226,7 @@ This repository applies GTM Engineering principles to identify, score, and activ
 3. strategic partnerships
 4. grant collaboration
 5. relationship access
+6. digital engagement signals
 
 Workflow:
 
@@ -225,12 +243,104 @@ Fit Scoring
 ↓
 Segmented Outreach
 ↓
+Video Education / Engagement Tracking
+↓
 Discovery Call
 ↓
 LOI / Data Room
 ↓
 Supplier or Investor Conversion
 ```
+
+---
+
+## Video-Driven Capital Formation Stack
+
+The fundraising process uses three video tools with separate roles.
+
+### Pictory
+
+Creates polished evergreen education videos.
+
+Use for:
+
+- investor explainers
+- supplier explainers
+- strategic partner videos
+- grant / R&D videos
+- data room intro videos
+
+### Vidyard
+
+Distributes trackable video and captures intent signals.
+
+Use for:
+
+- investor outreach campaigns
+- supplier outreach campaigns
+- strategic partner campaigns
+- video analytics
+- watch percentage tracking
+- CTA tracking
+- RIOS engagement scoring
+
+### Loom
+
+Creates personalized trust-building videos.
+
+Use for:
+
+- warm investor follow-up
+- supplier-specific follow-up
+- post-meeting recaps
+- data room walkthroughs
+- strategic partner follow-up
+
+### RIOS
+
+Stores the relationship intelligence and triggers the next action.
+
+Video workflow:
+
+```text
+Target Account Identified
+↓
+RIOS Research and Fit Score
+↓
+Pictory / Vidyard Education Video
+↓
+Watch Behavior Captured
+↓
+RIOS Engagement Score
+↓
+Personal Loom Follow-Up
+↓
+Discovery Call
+↓
+Data Room / LOI / Commitment
+```
+
+---
+
+## Digital Fund Collateral Strategy
+
+The current legal and securities foundation remains paper-based and counsel-reviewed.
+
+The digital layer is intended to improve the investor experience.
+
+Potential architecture:
+
+```text
+Paper-Based Legal Fund Structure
+↓
+Digital Fund Collateral / Investor Experience Layer
+↓
+RIOS Relationship Intelligence Layer
+↓
+Feedstock + Investor + Grant Execution System
+```
+
+Avestor or a similar customizable fund platform may be evaluated as a possible digital investor onboarding, document, reporting, and deal-sleeve experience layer.
 
 ---
 
@@ -264,6 +374,16 @@ Supplier or Investor Conversion
 - `grants/nsf-project-pitch-draft.md`
 - `grants/grant-capital-stack-strategy.md`
 
+### Fundraise Resources
+
+- `fundraise-resources/digital-fund-collateral-strategy.md`
+- `fundraise-resources/avestor-evaluation.md`
+- `fundraise-resources/investor-journey-map.md`
+- `fundraise-resources/pictory-video-presentation-strategy.md`
+- `fundraise-resources/loom-personalized-video-strategy.md`
+- `fundraise-resources/vidyard-video-integration-strategy.md`
+- `fundraise-resources/video-asset-library.md`
+
 ---
 
 ## Near-Term Execution Priorities
@@ -275,6 +395,10 @@ Supplier or Investor Conversion
 5. Use LOIs to strengthen investor diligence.
 6. Begin NSF / SBIR grant readiness process.
 7. Prepare investor data room and compliance review.
+8. Produce the first Pictory investor explainer video.
+9. Set up Vidyard engagement tracking for investor and supplier outreach.
+10. Use Loom for high-intent personalized follow-up.
+11. Evaluate Avestor or similar digital fund platform with securities counsel.
 
 ---
 
@@ -305,12 +429,30 @@ Supplier or Investor Conversion
 - NSF Project Pitch submitted
 - letters of support secured
 
+### Video Metrics
+
+- Pictory videos produced
+- Vidyard videos sent
+- watch percentage
+- CTA clicks
+- high-intent video signals
+- Loom follow-ups sent
+- video-to-call conversion rate
+
+### Digital Fund Metrics
+
+- Avestor evaluation completed
+- counsel review completed
+- investor journey mapped
+- data room requirements confirmed
+- digital onboarding workflow defined
+
 ---
 
 ## Compliance Note
 
-This repository may contain capital raising strategy, investor targeting, grant strategy, and securities-related workflow documentation.
+This repository may contain capital raising strategy, investor targeting, grant strategy, video outreach strategy, digital fund collateral planning, and securities-related workflow documentation.
 
-All investor-facing materials must be reviewed by qualified securities counsel before use.
+All investor-facing materials, investor videos, fund collateral, data room content, and offering-related communications must be reviewed by qualified securities counsel before use.
 
 This repository does not constitute an offer to sell securities or a solicitation to buy securities.
