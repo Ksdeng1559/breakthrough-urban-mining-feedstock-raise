@@ -11,6 +11,15 @@ The objective is to build a repeatable GTM system that secures feedstock LOIs, d
 - **Day 90 Review:** Validate campaign traction, feedstock LOI progress, investor engagement, and messaging performance.
 - **Day 180 Review:** Evaluate capital raised, feedstock secured, strategic partnerships, and readiness for scale-up or revised execution.
 
+## Review Participants
+
+- Andrew Ferguson
+- Gilbert Jones
+- Dennis Eng
+- Fractional CFO / finance advisor, when appointed
+- Securities counsel, when investor-facing materials or offering process decisions require review
+- Key advisors, as needed
+
 ---
 
 # Phase 1: Foundation and Market Build
@@ -141,7 +150,7 @@ Actions:
 - Finalize priority supplier agreements
 - Publish internal campaign update
 - Prepare second outreach wave
-- Complete Day 90 performance review
+- Complete Day 90 performance review with Andrew Ferguson, Gilbert Jones, Dennis Eng, and relevant advisors
 
 ### Targets
 
@@ -153,6 +162,15 @@ Actions:
 ---
 
 # Day 90 Review Gate
+
+## Review Participants
+
+- Andrew Ferguson
+- Gilbert Jones
+- Dennis Eng
+- Fractional CFO / finance advisor, when appointed
+- Securities counsel, as needed
+- Key advisors, as needed
 
 ## Review Questions
 
@@ -315,7 +333,7 @@ Actions:
 
 Actions:
 
-- Conduct 180-day campaign review
+- Conduct 180-day campaign review with Andrew Ferguson, Gilbert Jones, Dennis Eng, and relevant advisors
 - Evaluate capital raised
 - Evaluate feedstock secured
 - Identify bottlenecks
@@ -332,6 +350,15 @@ Actions:
 ---
 
 # Day 180 Review Gate
+
+## Review Participants
+
+- Andrew Ferguson
+- Gilbert Jones
+- Dennis Eng
+- Fractional CFO / finance advisor, when appointed
+- Securities counsel, as needed
+- Key advisors, as needed
 
 ## Review Questions
 
