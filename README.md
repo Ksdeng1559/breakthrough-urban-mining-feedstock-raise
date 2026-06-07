@@ -353,6 +353,7 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 - `docs/gtm-engineering-model.md`
 - `docs/target-account-universe.md`
 - `docs/90-day-execution-plan.md`
+- `docs/planned-data-architecture.md`
 
 ### Capital Formation
 
