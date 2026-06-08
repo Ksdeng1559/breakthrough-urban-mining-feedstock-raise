@@ -57,6 +57,7 @@ Breakthrough Management is raising $5M to secure high-value PCB and retired serv
 - AI and robotics R&D opportunity
 - Digital fund collateral strategy
 - Video-driven investor and supplier education system
+- Foundersuite-powered capital formation CRM strategy
 
 ### What This Is Not
 
@@ -105,6 +106,7 @@ Responsibilities:
 - campaign reporting
 - video-driven outreach systems
 - digital fund collateral strategy
+- Foundersuite capital formation workflow design
 
 ---
 
@@ -142,6 +144,7 @@ Purpose:
 - review feedstock LOIs
 - assess investor engagement
 - review data room activity
+- assess Foundersuite pipeline health
 - assess video engagement signals
 - decide whether to scale, refine, or reposition
 
@@ -154,6 +157,7 @@ Purpose:
 - review strategic partnerships
 - review grant strategy progress
 - review digital fund platform readiness
+- review Foundersuite investor, family office, strategic partner, and acquisition-financing pipelines
 - determine next 180-day plan
 - decide whether to expand toward the full $5M raise, strategic partner capital, grants, or technology platform development
 
@@ -215,6 +219,21 @@ Purpose:
 - track investor engagement
 - improve reporting and repeat fundraising
 
+### 6. Foundersuite Capital Formation CRM
+
+Purpose:
+
+- manage investor pipeline
+- manage family office pipeline
+- manage strategic partner capital conversations
+- manage government / non-dilutive funding pipeline
+- manage feedstock acquisition financing pipeline
+- organize data room access and diligence tracking
+- distribute monthly investor updates
+- track warm introductions, soft-circle commitments, and capital conversion
+
+Foundersuite is the capital relationship system of record. RIOS and the GTM Engineering workflow remain the signal intelligence and feedstock discovery layers.
+
 ---
 
 ## GTM Engineering Model
@@ -251,6 +270,53 @@ LOI / Data Room
 ↓
 Supplier or Investor Conversion
 ```
+
+---
+
+## Foundersuite Capital Formation Layer
+
+Foundersuite is added as the capital formation CRM and diligence workflow layer.
+
+It should be used to manage:
+
+- investor relationships
+- family office relationships
+- strategic partner capital relationships
+- feedstock acquisition financing sources
+- government and non-dilutive funding opportunities
+- data room permissions and diligence activity
+- investor updates
+- soft-circle and commitment tracking
+
+It should not be used as the feedstock sourcing engine. Feedstock discovery, supplier qualification, account enrichment, and signal intelligence remain inside the GTM Engineering / RIOS workflow.
+
+Operating logic:
+
+```text
+RIOS / GTM Engineering
+↓
+Qualified capital target identified
+↓
+Fit score and relationship path mapped
+↓
+Qualified investor / partner exported to Foundersuite
+↓
+Foundersuite manages outreach, diligence, data room access, updates, and commitment tracking
+↓
+Capital is matched to feedstock acquisition opportunities
+```
+
+Primary Foundersuite pipelines:
+
+1. Investor Pipeline
+2. Family Office Pipeline
+3. Strategic Partner Capital Pipeline
+4. Government and Non-Dilutive Funding Pipeline
+5. Feedstock Acquisition Financing Pipeline
+
+Reference document:
+
+- `fundraise-resources/foundersuite-capital-formation-crm.md`
 
 ---
 
@@ -335,12 +401,16 @@ Paper-Based Legal Fund Structure
 ↓
 Digital Fund Collateral / Investor Experience Layer
 ↓
+Foundersuite Capital Formation CRM
+↓
 RIOS Relationship Intelligence Layer
 ↓
 Feedstock + Investor + Grant Execution System
 ```
 
 Avestor or a similar customizable fund platform may be evaluated as a possible digital investor onboarding, document, reporting, and deal-sleeve experience layer.
+
+Foundersuite should be evaluated as the operational CRM and data room workflow layer for investor, family office, strategic partner, and feedstock acquisition financing relationships.
 
 ---
 
@@ -360,6 +430,7 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 - `docs/investor-one-pager.md`
 - `docs/data-room-structure.md`
 - `crm/investor-pipeline-stages.md`
+- `fundraise-resources/foundersuite-capital-formation-crm.md`
 
 ### Feedstock Operations
 
@@ -379,6 +450,7 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 
 - `fundraise-resources/digital-fund-collateral-strategy.md`
 - `fundraise-resources/avestor-evaluation.md`
+- `fundraise-resources/foundersuite-capital-formation-crm.md`
 - `fundraise-resources/investor-journey-map.md`
 - `fundraise-resources/pictory-video-presentation-strategy.md`
 - `fundraise-resources/loom-personalized-video-strategy.md`
@@ -396,10 +468,12 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 5. Use LOIs to strengthen investor diligence.
 6. Begin NSF / SBIR grant readiness process.
 7. Prepare investor data room and compliance review.
-8. Produce the first Pictory investor explainer video.
-9. Set up Vidyard engagement tracking for investor and supplier outreach.
-10. Use Loom for high-intent personalized follow-up.
-11. Evaluate Avestor or similar digital fund platform with securities counsel.
+8. Set up Foundersuite investor, family office, strategic partner, government funding, and feedstock acquisition financing pipelines.
+9. Upload counsel-reviewed starter materials into the Foundersuite data room.
+10. Produce the first Pictory investor explainer video.
+11. Set up Vidyard engagement tracking for investor and supplier outreach.
+12. Use Loom for high-intent personalized follow-up.
+13. Evaluate Avestor or similar digital fund platform with securities counsel.
 
 ---
 
@@ -422,6 +496,20 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 - soft-circle commitments
 - funded capital
 
+### Foundersuite Metrics
+
+- qualified investors added
+- family offices added
+- strategic partner capital targets added
+- government / non-dilutive funding opportunities added
+- feedstock acquisition financing sources added
+- warm introductions requested
+- data room invitations sent
+- investor updates distributed
+- diligence questions tracked
+- soft-circle commitments tracked
+- capital committed
+
 ### Grant Metrics
 
 - R&D concept note completed
@@ -443,6 +531,7 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 ### Digital Fund Metrics
 
 - Avestor evaluation completed
+- Foundersuite setup completed
 - counsel review completed
 - investor journey mapped
 - data room requirements confirmed
@@ -454,6 +543,6 @@ Avestor or a similar customizable fund platform may be evaluated as a possible d
 
 This repository may contain capital raising strategy, investor targeting, grant strategy, video outreach strategy, digital fund collateral planning, and securities-related workflow documentation.
 
-All investor-facing materials, investor videos, fund collateral, data room content, and offering-related communications must be reviewed by qualified securities counsel before use.
+All investor-facing materials, investor videos, fund collateral, data room content, investor updates, and offering-related communications must be reviewed by qualified securities counsel before use.
 
 This repository does not constitute an offer to sell securities or a solicitation to buy securities.
