@@ -146,6 +146,7 @@ Purpose:
 - review data room activity
 - assess Foundersuite pipeline health
 - assess video engagement signals
+- review GTM success scorecard
 - decide whether to scale, refine, or reposition
 
 ### Day 180 Review
@@ -158,6 +159,7 @@ Purpose:
 - review grant strategy progress
 - review digital fund platform readiness
 - review Foundersuite investor, family office, strategic partner, and acquisition-financing pipelines
+- review GTM success scorecard trend from baseline to Day 180
 - determine next 180-day plan
 - decide whether to expand toward the full $5M raise, strategic partner capital, grants, or technology platform development
 
@@ -509,6 +511,65 @@ Foundersuite should be evaluated as the operational CRM and data room workflow l
 - diligence questions tracked
 - soft-circle commitments tracked
 - capital committed
+
+### GTM Success Scorecard KPIs
+
+Baseline score:
+
+```text
+Overall GTM Strategy Score: 78 / 100
+Strategy Quality: 78 / 100
+Execution Readiness: 68 / 100
+Investor Narrative: 82 / 100
+Operational Proof: 55 / 100
+Capital Raise Readiness: 62 / 100
+```
+
+Target score by Day 90:
+
+```text
+Overall GTM Strategy Score: 85 / 100+
+Execution Readiness: 75 / 100+
+Operational Proof: 65 / 100+
+Capital Raise Readiness: 72 / 100+
+```
+
+Target score by Day 180:
+
+```text
+Overall GTM Strategy Score: 90 / 100+
+Execution Readiness: 85 / 100+
+Operational Proof: 78 / 100+
+Capital Raise Readiness: 82 / 100+
+```
+
+Scorecard dimensions:
+
+- market timing
+- core thesis clarity
+- target raise clarity
+- feedstock-first logic
+- capital formation workflow
+- investor readiness
+- operational execution risk
+- strategic partner potential
+- grant / non-dilutive capital strategy
+- measurability
+
+Score-improvement proof assets:
+
+- feedstock economics model completed
+- supplier LOI tracker created
+- diligence-ready data room index completed
+- Foundersuite 90-day KPI dashboard created
+- processing partner validation memo completed
+- counsel-reviewed investor material package completed
+
+Probability indicators to monitor:
+
+- probability of building a credible GTM system
+- probability of securing meaningful investor interest
+- probability of closing the full $5M raise within the 180-day review window
 
 ### Grant Metrics
 
